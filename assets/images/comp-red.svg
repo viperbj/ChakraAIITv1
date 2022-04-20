@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#CE0F0F;}
+</style>
+<g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)">
+	<path class="st0" d="M280,5106c-74-16-127-46-176-98c-52-54-79-107-93-183c-8-41-11-542-11-1647V1590h2560h2560v1588
+		c0,1103-3,1606-11,1647c-14,78-47,140-101,191c-54,52-107,79-183,93C4736,5126,355,5123,280,5106z M4594,4750c70-27,129-86,156-156
+		c20-54,20-71,20-1179V2290H2560H350l2,1178l3,1178l27,41c15,23,44,49,70,62l43,21h2022C4529,4770,4540,4770,4594,4750z M2740,1940
+		v-90h-180h-180v90v90h180h180V1940z"/>
+	<path class="st0" d="M1500,3970v-260h440h440v260v260h-440h-440V3970z"/>
+	<path class="st0" d="M2740,3970v-260h440h440v260v260h-440h-440V3970z"/>
+	<path class="st0" d="M1500,3090v-260h440h440v260v260h-440h-440V3090z"/>
+	<path class="st0" d="M2740,3090v-260h440h440v260v260h-440h-440V3090z"/>
+	<path class="st0" d="M800,175V0h1760h1760v175v175H2560H800V175z"/>
+</g>
+</svg>
